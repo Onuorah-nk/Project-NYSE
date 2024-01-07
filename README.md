@@ -26,6 +26,4 @@ Task 3: Created a financial model for a company (different from Task 2) of my ch
 
 - <b>Windows 10</b> 
 
-<h2>Program walk-through:</h2>
 
-<p align="center">
